@@ -1,0 +1,21 @@
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\TRES_EN_RAYA\TRES_EN_RAYA\bin\Debug\TRES_EN_RAYA.exe.config
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\TRES_EN_RAYA\TRES_EN_RAYA\obj\Debug\TRES_EN_RAYA.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\TRES_EN_RAYA\TRES_EN_RAYA\bin\Debug\TRES_EN_RAYA.exe
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\TRES_EN_RAYA\TRES_EN_RAYA\bin\Debug\TRES_EN_RAYA.pdb
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\TRES_EN_RAYA\TRES_EN_RAYA\obj\Debug\TRES_EN_RAYA.exe
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\TRES_EN_RAYA\TRES_EN_RAYA\obj\Debug\TRES_EN_RAYA.pdb
+I:\PROGRAMACION_1516\CLASES\TRES_EN_RAYA\TRES_EN_RAYA\bin\Debug\TRES_EN_RAYA.exe.config
+I:\PROGRAMACION_1516\CLASES\TRES_EN_RAYA\TRES_EN_RAYA\obj\Debug\TRES_EN_RAYA.exe
+I:\PROGRAMACION_1516\CLASES\TRES_EN_RAYA\TRES_EN_RAYA\obj\Debug\TRES_EN_RAYA.pdb
+I:\PROGRAMACION_1516\CLASES\TRES_EN_RAYA\TRES_EN_RAYA\bin\Debug\TRES_EN_RAYA.exe
+I:\PROGRAMACION_1516\CLASES\TRES_EN_RAYA\TRES_EN_RAYA\bin\Debug\TRES_EN_RAYA.pdb
+I:\PROGRAMACION_1516\CLASES\TRES_EN_RAYA\TRES_EN_RAYA\obj\Debug\TRES_EN_RAYA.csprojResolveAssemblyReference.cache
+I:\6_PROGRAMACION_1516\CLASES\tres_en_raya\TRES_EN_RAYA\bin\Debug\TRES_EN_RAYA.exe.config
+I:\6_PROGRAMACION_1516\CLASES\tres_en_raya\TRES_EN_RAYA\obj\Debug\TRES_EN_RAYA.exe
+I:\6_PROGRAMACION_1516\CLASES\tres_en_raya\TRES_EN_RAYA\obj\Debug\TRES_EN_RAYA.pdb
+I:\6_PROGRAMACION_1516\CLASES\tres_en_raya\TRES_EN_RAYA\bin\Debug\TRES_EN_RAYA.exe
+I:\6_PROGRAMACION_1516\CLASES\tres_en_raya\TRES_EN_RAYA\bin\Debug\TRES_EN_RAYA.pdb
+I:\6_PROGRAMACION_1516\CLASES\tres_en_raya\TRES_EN_RAYA\obj\Debug\TRES_EN_RAYA.csprojResolveAssemblyReference.cache
+I:\6_PROGRAMACION_1516\CLASES\3_TresEnRaya\TRES_EN_RAYA\bin\Debug\TRES_EN_RAYA.exe.config
+I:\6_PROGRAMACION_1516\CLASES\3_TresEnRaya\TRES_EN_RAYA\obj\Debug\TRES_EN_RAYA.exe
+I:\6_PROGRAMACION_1516\CLASES\3_TresEnRaya\TRES_EN_RAYA\obj\Debug\TRES_EN_RAYA.pdb
